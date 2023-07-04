@@ -1,6 +1,8 @@
+# Quit Function
 def quit():
     print("~ Thankyou for visiting in Calculator System ~")
 
+# Again Function
 def again():
     d = int(input("Press (1) for again using calculator and Press (2) for quit : "))
     if(d==1):
@@ -8,10 +10,10 @@ def again():
     elif(d==2):
         quit()
     else:
-        print("Library Disaled !@!#$^&*")
+        print("You Enter Wrong Input !!")
         again()
 
-
+# Starting Point
 print("======================================\n      CALCULATOR SYSTEM\n======================================")
 def calc():
     a = int(input("Enter first number : "))
