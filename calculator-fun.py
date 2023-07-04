@@ -18,7 +18,7 @@ print("======================================\n      CALCULATOR SYSTEM\n========
 def calc():
     a = int(input("Enter first number : "))
     b = int(input("Enter second number : "))
-    c = int(input("Enter choice \n \n Addition(1)          Subtraction(2)         Multiplication(3)         Division(4)         ALL(5)  \n\n ----------------->  "))
+    c = int(input("Enter choice \n \n Addition(1)          Subtraction(2)         Multiplication(3)         Division(4)         All Operations(5)  \n\n ----------------->  "))
     if(c==1):
         print("Addition is : ",a+b)
         again()
