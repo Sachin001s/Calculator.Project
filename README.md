@@ -1,8 +1,9 @@
-<img src="calc.png" align="right" width="50px" height="50px"/>
+<img src="calc.png" align="right" width="200px" height="200px"/>
 
-## Calculator Project
+## Calculator Project   &nbsp; ![Static Badge](https://img.shields.io/badge/%20CALCULATOR%20-%20blue)
+> This is a simple calculator project written in Python.
 
-This is a simple calculator project written in Python. It allows you to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The program provides a user-friendly interface for inputting operands and selecting the desired operation.
+It allows you to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The program provides a user-friendly interface for inputting operands and selecting the desired operation.
 
 
 ## Getting Started
@@ -17,7 +18,6 @@ To use the calculator, run the calculator.py file. You can do this by executing 
 - python calculator.py
 The program will display a menu with options for different operations. Simply enter the corresponding number to choose an operation.
 
-## Screenshot
 ![Screenshot 2023-07-04 105556](https://github.com/Sachin001s/Calculator.Project/assets/128379424/70c4961e-1ad7-4447-818b-17e55e9d0767)
 
 
