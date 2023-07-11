@@ -1,4 +1,4 @@
-
+<img src="calc.png" align="right" />
 # Calculator Project
 
 This is a simple calculator project written in Python. It allows you to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The program provides a user-friendly interface for inputting operands and selecting the desired operation.
