@@ -1,6 +1,7 @@
 <img src="calc.png" align="right" width="200px" height="200px"/>
 
-## Calculator Project   &nbsp; ![Static Badge](https://img.shields.io/badge/%20CALCULATOR%20-%20blue)
+## Calculator Project    &nbsp; ![Static Badge](https://img.shields.io/badge/CALCULATOR-C-%23F0AD4E)
+
 > This is a simple calculator project written in Python.
 
 It allows you to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The program provides a user-friendly interface for inputting operands and selecting the desired operation.
